@@ -1,5 +1,5 @@
 ![logo](https://github.com/rickx09x/rickx09x/blob/main/banner.gif)
-<h1 align="center">Hi 👋, I'm Riccardo Seddio</h1>
+<h1 align="center">Hi 👋, I'm Riccardo</h1>
 <h3 align="center">Full-stack development using HTML, CSS, PYTHON, C, C++, and C#.</h3>
 
 <img align="right" alt="coding" widht="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
